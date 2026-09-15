@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix RM Naeso Aji - Digital QR Menu",
+  "description": "Digital QR menu system and staff management dashboard for RM Naeso Aji, featuring category filtering, live availability toggles, and instant updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
